@@ -2,6 +2,8 @@
 
 Official Bivouac mobile application
 
+![Bivouac App Demo](demo.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
