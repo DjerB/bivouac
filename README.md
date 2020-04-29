@@ -9,7 +9,8 @@ The app is still under development and will present the following features:
 - real-time tracking tool for orders
 - creation of customer accounts and subscription to discount programmes
 
-![Bivouac App Demo](demo.gif)
+![Bivouac App Demo](docs/demo.gif)
+<img src="docs/main_screen.jpg" width="140" height="300" />
 
 ## Getting Started
 
