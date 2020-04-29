@@ -10,7 +10,11 @@ The app is still under development and will present the following features:
 - creation of customer accounts and subscription to discount programmes
 
 ![Bivouac App Demo](docs/demo.gif)
-<img src="docs/main_screen.jpg" width="140" height="300" />
+<img src="docs/landing_screen.jpg" width="240" height="480" />
+<img src="docs/login_screen.jpg" width="240" height="480" />
+<img src="docs/main_screen.jpg" width="240" height="480" />
+<img src="docs/details_screen.jpg" width="240" height="480" />
+
 
 ## Getting Started
 
