@@ -14,6 +14,7 @@ The app is still under development and will present the following features:
 <img src="docs/login_screen.jpg" width="240" height="480" />
 <img src="docs/main_screen.jpg" width="240" height="480" />
 <img src="docs/details_screen.jpg" width="240" height="480" />
+<img src="docs/main_screen_ios.png" width="240" height="480" />
 
 
 ## Getting Started
